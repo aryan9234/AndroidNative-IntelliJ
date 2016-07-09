@@ -45,3 +45,10 @@ module name define in build.gradle file of particular sub-project.
 * libstdc++.so  -> standard c++ library
 * libz.so -> compression library
 * libEGL.so -> ablity to allocate and manage openGL surface
+
+### libandengine.so file which takes binary file of ###
+* libGLESv2.so
+* libstdc++.so  -> standard c++ library
+* libm.so -> math library
+* libc.so -> c library
+* libdl.so -> provide dynmic linking support
