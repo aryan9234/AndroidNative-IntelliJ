@@ -52,3 +52,12 @@ module name define in build.gradle file of particular sub-project.
 * libm.so -> math library
 * libc.so -> c library
 * libdl.so -> provide dynmic linking support
+
+### libplayer.so (native library of buildbox->internally use cocos2dx) file take binary file of ###
+* liblog.so
+* libz.so
+* libGLESv2.so
+* libstdc++.so
+* libm.so
+* libc.so
+* libdl.so
